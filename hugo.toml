@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Code4Bread'
+theme = 'hugo-coder'
+
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "projects/"
+[[menu.main]]
+  name = "Experiences"
+  weight = 2
+  url = "about/"
