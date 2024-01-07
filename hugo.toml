@@ -3,11 +3,44 @@ languageCode = 'en-us'
 title = 'Code4Bread'
 theme = 'hugo-coder'
 
+[params]
+author = 'Kaung Myat Htet Khaing'
+info = 'Pragmatic Software Engineer'
+description = 'All about me'
+github = 'https://github.com/code-4-bread'
+avatarurl = '/images/profile.jpg'
+colorScheme = 'dark'
+faviconSVG = '/img/favicon.svg'
+touchIcon = '/img/apple-touch-icon.png'
+favicon_32 = '/img/favicon-32x32.png'
+favicon_16 = '/img/favicon-16x16.png'
+
 [[menu.main]]
-  name = "Projects"
-  weight = 1
-  url  = "projects/"
+name = "About me"
+weight = 1
+url = "aboutme/"
 [[menu.main]]
-  name = "Experiences"
-  weight = 2
-  url = "about/"
+name = "Experiences"
+weight = 2
+url = "experiences/"
+[[menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
+
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/code-4-bread"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin-square fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/kaung-myat-htet-khaing/"
+[[params.social]]
+name = "Email"
+icon = "fa fa-envelope fa-2x"
+weight = 3
+url = "mailto:iz@kaungmyat.tech"
