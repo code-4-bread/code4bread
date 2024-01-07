@@ -1,0 +1,5 @@
+# About me
+
+A seasoned Senior Software Engineer with extensive experience in Fullstack development, cloud services, and system architecture. Demonstrated expertise in designing and building robust systems, APIs, and microservices. Proven track record in working with cloud platforms and leading the development of integration systems and tools tailored to business needs. Worked with diverse range of technologies including `NodeJS`, `Python`, `Dart`, `PHP`, `MongoDB`, `Postgres`, `MySQL`, `NextJS`, `NestJS`, `Flutter`, `Flask` and cloud services, `AWS` & `GCP`. Adept at working in fast-paced environments and collaborating effectively with stakeholders to deliver features and solutions. 
+
+Love to get hands dirty with new tech stacks and tools, and always learning new things, currently learning Go.
